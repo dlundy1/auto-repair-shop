@@ -1,0 +1,13 @@
+c:\users\d.velep\documents\visual studio 2013\Projects\Auto-Repair-Shop\Auto-Repair-Shop\bin\Debug\Auto-Repair-Shop.exe.config
+c:\users\d.velep\documents\visual studio 2013\Projects\Auto-Repair-Shop\Auto-Repair-Shop\bin\Debug\Auto-Repair-Shop.exe
+c:\users\d.velep\documents\visual studio 2013\Projects\Auto-Repair-Shop\Auto-Repair-Shop\bin\Debug\Auto-Repair-Shop.pdb
+c:\users\d.velep\documents\visual studio 2013\Projects\Auto-Repair-Shop\Auto-Repair-Shop\bin\Debug\Auto-Repair-Shop.xml
+c:\users\d.velep\documents\visual studio 2013\Projects\Auto-Repair-Shop\Auto-Repair-Shop\obj\Debug\Auto_Repair_Shop.AboutBox1.resources
+c:\users\d.velep\documents\visual studio 2013\Projects\Auto-Repair-Shop\Auto-Repair-Shop\obj\Debug\Auto_Repair_Shop.Form1.resources
+c:\users\d.velep\documents\visual studio 2013\Projects\Auto-Repair-Shop\Auto-Repair-Shop\obj\Debug\Auto_Repair_Shop.Resources.resources
+c:\users\d.velep\documents\visual studio 2013\Projects\Auto-Repair-Shop\Auto-Repair-Shop\obj\Debug\Auto_Repair_Shop.SplashScreen1.resources
+c:\users\d.velep\documents\visual studio 2013\Projects\Auto-Repair-Shop\Auto-Repair-Shop\obj\Debug\Auto-Repair-Shop.vbproj.GenerateResource.Cache
+c:\users\d.velep\documents\visual studio 2013\Projects\Auto-Repair-Shop\Auto-Repair-Shop\obj\Debug\Auto-Repair-Shop.exe
+c:\users\d.velep\documents\visual studio 2013\Projects\Auto-Repair-Shop\Auto-Repair-Shop\obj\Debug\Auto-Repair-Shop.xml
+c:\users\d.velep\documents\visual studio 2013\Projects\Auto-Repair-Shop\Auto-Repair-Shop\obj\Debug\Auto-Repair-Shop.pdb
+c:\users\d.velep\documents\visual studio 2013\Projects\Auto-Repair-Shop\Auto-Repair-Shop\obj\Debug\Auto_Repair_Shop.Job-info.resources
